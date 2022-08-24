@@ -9,7 +9,7 @@ Spring e Injeção de Dependências | Finalizado |
 JPA, Hibernate e Flyway | Finalizado | 
 Spring Data JPA | Finalizado | 
 Pool de conexões e Flyway | Finalizado | 
-Tratamento e modelagem de erros da API |  | 
+Tratamento e modelagem de erros da API | Finalizado | 
 Validações com Bean Validation |  | 
 Testes de integração |  | 
 Boas práticas e modelagem avançada de APIs |  | 
